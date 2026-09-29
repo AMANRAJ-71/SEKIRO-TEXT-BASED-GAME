@@ -1,0 +1,24 @@
+⚔️ A formidable foe approaches: Genichiro Ashina! ⚔️
+
+==================================================
+👤 Sekiro | HP: 100/100 | Posture: 0/100 | Gourds: 3
+👹 Genichiro Ashina | HP: 120/120 | Posture: 0/100
+==================================================
+
+Choose your action:
+1. Attack
+2. Heal (Healing Gourd)
+> 1
+
+💥 You slash at Genichiro Ashina!
+🛡️ Genichiro Ashina blocks your attack, taking heavy posture damage!
+
+⚠️ [危 PERILOUS ATTACK] Genichiro Ashina winds up a THRUST attack!
+React: (1) Mikiri Counter  (2) Jump Dodge
+> 1
+🦶 MIKIRI COUNTER! You stomp Genichiro Ashina's blade!
+
+==================================================
+👤 Sekiro | HP: 100/100 | Posture: 0/100 | Gourds: 3
+👹 Genichiro Ashina | HP: 115/120 | Posture: 50/100
+==================================================
