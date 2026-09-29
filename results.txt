@@ -1,0 +1,14 @@
+======================================================================
+SEKIRO TEXT GAME - AUTOMATED TEST RESULTS
+======================================================================
+Date: 2026-09-29
+Environment: Python 3.11.4 / unittest
+
+test_boss_attack_types (tests.test_game.TestSekiroGame) ... ok
+test_entity_health_and_posture (tests.test_game.TestSekiroGame) ... ok
+test_player_healing (tests.test_game.TestSekiroGame) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.002s
+
+OK
